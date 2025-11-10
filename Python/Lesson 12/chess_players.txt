@@ -1,0 +1,16 @@
+[
+    {
+        "id": 900,
+        "name": "AlphaZero",
+        "country": "AI",
+        "rating": 3500,
+        "age": 1
+    },
+    {
+        "id": 901,
+        "name": "Stockfish",
+        "country": "AI",
+        "rating": 3550,
+        "age": 2
+    }
+]
